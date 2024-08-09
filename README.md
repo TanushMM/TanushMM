@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TanushMM](https://github.com/TanushMM)
 
-- 💬 Ask me about **Python, Pandas, Sci-Kit Learn, Excel, MySQL, Personal Finance, Stock Market and a lot more**
+- 💬 Ask me about **Docker, AWS [Elastic Beanstalk, EC2, S3, Codepipeline, ECR], Python, Pandas, Sci-Kit Learn, Excel, MySQL, Personal Finance, Stock Market and a lot more**
 
 - 📫 How to reach me **tanushmmofficial@gmail.com**
 
