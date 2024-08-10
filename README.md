@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently Improving [Linear Regression Pairs Trading System](https://github.com/TanushMM/Linear_Regression_Pairs_Trading_System)
 
-- 🌱 I’m currently learning **Power BI, Data Structures and Algorithms, Stock market**
+- 🌱 I’m currently learning **Docker, AWS, Power BI, Data Structures and Algorithms, Stock market and a more...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TanushMM](https://github.com/TanushMM)
 
